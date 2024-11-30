@@ -1,4 +1,4 @@
-This is my first project, It is simple and utlises the strong understanding of python basics of Data Cleaning, Processing and Visualization.
+This is my first project, It is simple and utlises the strong understanding of Python basics of Data Cleaning, Processing and Visualization.
 
 Why This Project?
 Being a fan of Apple products and intrigued by their market strategies, I always wondered what drives their massive sales. Is it the product design? Marketing? Or do certain regions perform better than others? These questions inspired me to explore a dataset about iPhone sales and try to answer them using Python.
